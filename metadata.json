@@ -1,0 +1,6 @@
+{
+  "name": "BE Travel - Gerador de Faturas e Duplicatas",
+  "description": "Emissão ágil e automatizada de faturas e duplicatas de passagens aéreas com perfis de clientes, cálculo de vencimento e layout fiel ao modelo oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
